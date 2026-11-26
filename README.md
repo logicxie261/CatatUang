@@ -9,6 +9,6 @@ Aplikasi pencatat keuangan (WebView). Paket: `com.logicxie.keuangan`, versi 1.0.
 4. Untuk membuat Release: `git tag v1.0.0 && git push origin v1.0.0` - APK terlampir otomatis.
 
 ## Struktur
-- `app/src/main/assets/index.html` - isi aplikasi (edit di sini)
+- `app/src/main/assets/index.html` - isi aplikasi 
 - `app/src/main/java/.../MainActivity.java` - WebView + simpan file ke Download
 - `app/build.gradle` - versionCode / versionName
